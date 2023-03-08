@@ -1,6 +1,6 @@
 # Uber Data Analysis
 
-This repository contains a comprehensive data analysis project focused on Uber rides. The dataset used in this project is a spreadsheet obtained from Uber, containing data related to ride details, such as pick-up and drop-off locations, date and time of the ride, and the fare amount.
+This repository contains a comprehensive data analysis project focused on Uber rides. The dataset used in this project is a spreadsheet obtained from Uber, containing data related to ride details, such as date and time of the ride, and the fare amount.
 
 The goal of this project is to provide a complete understanding of data science, covering all stages of the data analysis process from data preparation to analysis. The project is designed to be accessible to individuals who are new to data science, as well as to experienced practitioners who want to refresh their skills.
 
